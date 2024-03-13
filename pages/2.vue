@@ -32,10 +32,10 @@ onMounted(() => {
   <!--  <div style="display: flex;">-->
   <UContainer style="display: flex;margin-top: 20px;width: 95%">
     <UContainer>
-      <NuxtImg @click="$router.push('/daily')" style="border-radius: 5%" src="/百人展8.png"></NuxtImg>
+      <NuxtImg @click="$router.push('/master')" style="border-radius: 5%" src="/百人展8.png"></NuxtImg>
     </UContainer>
     <UContainer>
-      <NuxtImg @click="$router.push('/daily')" style="border-radius: 5%" src="/195.png"></NuxtImg>
+      <NuxtImg @click="$router.push('/about')" style="border-radius: 5%" src="/195.png"></NuxtImg>
       <ULink style="display: block;text-align: center" to="https://t.me/+7GFRpBpU_9IzZjk1">点击加tg</ULink>
     </UContainer>
     <UContainer>

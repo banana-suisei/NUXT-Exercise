@@ -1,11 +1,11 @@
 <script setup lang="ts">
 const imgs = [
-  '/NUXT-Exercise/dist/width/225.jpg',
-  '/NUXT-Exercise/dist/width/226.jpg',
-  '/NUXT-Exercise/dist/width/227.jpg',
-  '/NUXT-Exercise/dist/width/234.jpg',
-  '/NUXT-Exercise/dist/width/235.jpg',
-  '/NUXT-Exercise/dist/width/FuOabb-aEAANGhz.jpg'
+  '/dist/width/225.jpg',
+  '/dist/width/226.jpg',
+  '/dist/width/227.jpg',
+  '/dist/width/234.jpg',
+  '/dist/width/235.jpg',
+  '/dist/width/FuOabb-aEAANGhz.jpg'
 ]
 
 const carouselRef = ref()

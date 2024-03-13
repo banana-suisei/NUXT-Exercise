@@ -1,6 +1,11 @@
 <script setup lang="ts">
 
 import router from "#app/plugins/router";
+useHead({
+  link: [
+    {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'}
+  ]
+})
 </script>
 
 <template>

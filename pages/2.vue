@@ -36,11 +36,11 @@ onMounted(() => {
     </UContainer>
     <UContainer>
       <NuxtImg @click="$router.push('/daily')" style="border-radius: 5%" src="/195.png"></NuxtImg>
-      <ULink style="display: block;text-align: center" to="https://t.me/bocchi_chan_suki">点击加tg</ULink>
+      <ULink style="display: block;text-align: center" to="https://t.me/+7GFRpBpU_9IzZjk1">点击加tg</ULink>
     </UContainer>
     <UContainer>
       <NuxtImg @click="$router.push('/daily')" style="border-radius: 5%" src="/194.png"></NuxtImg>
-      <UButton style="display: block;text-align: center;margin-top: 10px" to="https://twitter.com/shirakamifubuki">此页面由 suisei-pettan<br>使用NUXT开发</UButton>
+      <UButton style="display: block;text-align: center;margin-top: 10px" to="https://github.com/suisei-pettan/NUXT-Exercise">此页面由 suisei-pettan<br>使用NUXT开发</UButton>
     </UContainer>
   </UContainer>
   <!--  </div>-->
